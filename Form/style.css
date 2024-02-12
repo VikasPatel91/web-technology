@@ -1,0 +1,19 @@
+.all-bg {
+  background-color: antiquewhite;
+}
+.form {
+  border: solid;
+  background: bisque;
+  padding: 15px;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+}
+.col {
+  width: 33%;
+}
+.header {
+  text-align: center;
+}
